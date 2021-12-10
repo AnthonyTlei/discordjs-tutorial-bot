@@ -1,0 +1,24 @@
+{
+  "name": "discordjs-system-bot",
+  "version": "1.0.0",
+  "description": "\"The System\" Discord Bot, build using Discord.JS Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyTlei/discordjs-system-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyTlei/discordjs-system-bot/issues"
+  },
+  "homepage": "https://github.com/AnthonyTlei/discordjs-system-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
+}

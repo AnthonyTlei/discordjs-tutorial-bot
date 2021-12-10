@@ -1,2 +1,2 @@
-# discordjs-system-bot
-"The System" Discord Bot, build using Discord.JS Library
+# discordjs-tutorial-bot
+The result of the series " How to make a Discord bot - Discord JS v13 " - Worn Off Keys
