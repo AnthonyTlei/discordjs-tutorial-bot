@@ -13,7 +13,7 @@ export default {
     */
     callback: ({message, interaction}) => {
         
-        /* WOKCommands will handle cecking if its a legacy or slash command */
+        /* WOKCommands will handle checking if its a legacy or slash command */
         // if(message){
         //     message.reply('pong')
         // }
