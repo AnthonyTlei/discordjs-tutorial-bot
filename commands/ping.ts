@@ -2,7 +2,7 @@ import { ICommand } from "wokcommands";
 
 export default {
 
-    category: 'Testing',
+    category: 'testing',
     description: 'Replies with pong',
     slash: 'both', // For Slash and Legacy commands
     testOnly: true, // For guild specific commands (not global)
